@@ -44,8 +44,6 @@ Me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cur
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -54,10 +52,6 @@ Me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cur
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Luizapmatoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizapmatoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
-  />
+    
+  
 </p>
