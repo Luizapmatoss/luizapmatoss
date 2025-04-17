@@ -2,7 +2,7 @@
 
 **`Estagiária de TI`**
 
-Me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Curso Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI.
+Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Curso Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI.
 
 <p align="left">
     <a href="https://www.youtube.com/@luizamatostech?sub_confirmation=1">
