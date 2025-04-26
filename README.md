@@ -5,12 +5,6 @@
 Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Curso Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI.
 
 <p align="left">
-    <a href="https://www.youtube.com/@luizamatostech?sub_confirmation=1">
-        <img
-            alt="youtube subscribers"
-            title="Inscreva-se no meu canal"
-            src="http://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAbX6ib4TCfwxTJ-Rmqli9g?color=%23E05d44&label=SUBSCRIBE&logo=video&logoColor=whit&style=for-the-badge&labelColor=CE4630"
-            />
     <a href="https://github.com/Luizapmatoss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
