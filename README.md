@@ -2,7 +2,7 @@
 
 **`Estagiária de TI`**
 
-Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Curso Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI.
+Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI. Estou me desenvolvendo como desenvolvedora backend, mas acabo fazendo alguns projetos full stack. 
 
 <p align="left">
     <a href="https://github.com/Luizapmatoss?tab=repositories&sort=stargazers">
@@ -40,6 +40,30 @@ Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
+/>
+
+<img
+    align="left"
+    alt="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"        
+/>
+
+<img
+    align="left"
+    alt="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               
 />
 <br/>
 <br/>
