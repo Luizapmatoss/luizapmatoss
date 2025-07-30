@@ -56,3 +56,8 @@ Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               
 />
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizapmatoss&hide_progress=true&title_color=783c00&text_color=af552e&color=f8efd4)
