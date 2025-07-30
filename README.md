@@ -1,28 +1,19 @@
-# 👩🏻‍💻 Luiza Matos
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luizapmatoss&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-**`Estagiária de TI`**
+### Olá, meu nome é {Luiza Matos}!
 
-Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech](https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech](https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI. Estou no processo de me tornar uma desenvolvedora backend, porém faço alguns projetos fullstack, amo aprender e sempre estou em busca de conhecer cada vez mais sobre o mundo da tecnologia
-<p align="left">
-    <a href="https://github.com/Luizapmatoss?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Luizapmatoss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Luizapmatoss?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luizapmatoss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<img src="https://img.shields.io/static/v1?label=Overview&message=luizapmatoss&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
----
+<p>Trabalho como {estagiária de TI}<br/> Eu sou desenvolvedora {back-end} em formação</p>
 
-### 🤖 Linguagens e Tecnologias
+<h1>
+    <strong>{Sobre Mim}</strong>
+</h1>
+Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou cursando Ciências da Computação e Técnico de Informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através das minhas redes sociais, no Tik Tok [luizamatos.tech] (https://www.tiktok.com/@luizamatos.tech) e Instagram [luizamatostech] (https://www.instagram.com/luizamatostech/), onde falo sobre curiosidades do mundo tech, ensino algumas coisas e compartilho um pouco da minha rotina estudando e trabalhando na TI. Estou no processo de me tornar uma desenvolvedora backend, porém faço alguns projetos fullstack, amo aprender e sempre estou em busca de conhecer cada vez mais sobre o mundo da tecnologia
+
+<h2>
+    <strong>{Tecnologias e Linguagens}</strong>
+</h2>
 
 <img 
     align="left" 
@@ -64,17 +55,3 @@ Eu me chamo Luiza Matos, tenho 18 anos e sou de Minas Gerais. Atualmente, estou 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"               
 />
-<br/>
-<br/>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luizapmatoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    
-  
-</p>
