@@ -1,8 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luizapmatoss&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<h1>
-    <strong>Olá, meu nome é {Luiza Matos}!</strong>
-</h1>
+### Olá, meu nome é {Luiza Matos}!
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=luizapmatoss&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
