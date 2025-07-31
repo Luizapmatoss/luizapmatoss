@@ -85,6 +85,6 @@ I'm passionate about the world of technology and enjoy always learning new thing
 </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=783c00&labelColor=f8efd4&color=f8efd4)](https://instagram.com/luizamatostech)
-[![TikTok](https://img.shields.io/badge/TikTok-f8efd4?style=for-the-badge&logo=tiktok&logoColor=783c00&labelColor=f8efd4&color=f8efd4)](https://www.tiktok.com/luizamatos.tech)
+[![TikTok](https://img.shields.io/badge/TikTok-f8efd4?style=for-the-badge&logo=tiktok&logoColor=783c00&labelColor=f8efd4&color=f8efd4)](tiktok.com/luizamatos.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=783c00&labelColor=f8efd4&color=f8efd4)](https://www.linkedin.com/in/luiza-matos-2b17a3356/)
 [![YouTube](https://img.shields.io/badge/YouTube-f8efd4?style=for-the-badge&logo=youtube&logoColor=783c00&labelColor=f8efd4&color=f8efd4)](https://www.youtube.com/@luizamatosstech)
