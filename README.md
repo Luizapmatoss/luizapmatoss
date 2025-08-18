@@ -78,6 +78,14 @@ I'm passionate about the world of technology and enjoy always learning new thing
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"        
 />
 
+<img
+    align="left"
+    alt="JS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>    
+
 <br>
 
 <h1>
