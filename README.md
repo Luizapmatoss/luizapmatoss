@@ -11,7 +11,7 @@
     <strong>{About me}</strong>
 </h1>
 
-Sou a Luiza, tenho 18 anos e sou de Minas Gerais. Atualmente estou usando Ciências da Computação na UNA, curso técnico de informática no Grau Técnico e trabalho como estagiária de TI na Secretaria Municipal de TI da prefeitura da minha cidade, onde aplico meus conhecimentos de análise de sistemas e suporte ao usuário. Estou no processo de me tornar desenvolvedora backend com foco em Java, Spring Boot e SQL, porém me aventuro em HTML, CSS e JavaScript. 
+Sou a Luiza, tenho 18 anos e sou de Minas Gerais. Atualmente estou usando Ciências da Computação na UNA, curso técnico de informática no Grau Técnico e trabalho como estagiária de TI na Secretaria Municipal de TI da prefeitura da minha cidade, onde aplico meus conhecimentos de análise de sistemas e suporte ao usuário. Estou no processo de me tornar desenvolvedora backend com foco em Java, Spring Boot e SQL, porém me aventuro em HTML, CSS e JavaScript. Além disso, combino meus conhecimento em backend com automações em Python.
 
 Sou apaixonada pelo mundo da tecnologia e gosto de sempre estar aprendendo coisas novas, além disso compartilho meus conhecimentos e rotina em minhas redes sociais, mostrando um pouco mais desse mundinho! Aqui irei compartilhar projetos reais e da faculdade, estudos e o meu processo de desenvolvimento. 
 
