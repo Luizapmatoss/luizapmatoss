@@ -2,9 +2,6 @@
 
 ### Hello, i'am {Luiza Matos}!
 
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=luizapmatoss&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p>I work as an {IT intern}<br/> I'm a {backend developer} in training</p>
 
 <h1>
